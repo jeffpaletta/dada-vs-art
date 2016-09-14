@@ -1,7 +1,6 @@
 // Jeff Paletta — 2015
 // dadaChance.pde
 
-
 // A
 PFont internal;
 PFont external;
